@@ -104,5 +104,9 @@
 		<text name="gui_ad_lineHeight_tooltip"				 text="Высота линии в режиме редактора. На уровне земли или над трактором" />
 		<text name="gui_ad_ground"							 text="На уровне земли" />
 		<text name="gui_ad_aboveDriver"						 text="Над трактором" />
+		<text name="gui_ad_allowConsoleStyle"				 text="Разрешить ввод цели (текст) />	
+		<text name="gui_ad_allowConsoleStyle_tooltip"	     text="Разрешить продвинутый ввод цели с клавиатуры - по умолчанию щелкните правой кнопкой мыши на текстовом поле цели" />
+		<text name="gui_ad_enableTrafficDetection"			 text="Обнаружение столкновения" />	
+		<text name="gui_ad_enableTrafficDetection_tooltip"	 text="Расширенное обнаружение столкновений, которое также обнаруживает AI-трафик, знаки, заборы и т. д." />
 	</texts>
 </l10n>
